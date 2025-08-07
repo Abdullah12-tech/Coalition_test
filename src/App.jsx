@@ -2,7 +2,6 @@ import { Toaster } from "sonner";
 import Home from "./pages/Home";
 import Header from "./components/header";
 import PatientList from "./components/Sidebar";
-import DiagnosisHistory from "./components/History";
 import PatientInfoCard from "./components/PatientInfo";
 import BloodPressureChart from "./components/Chart";
 import VitalSigns from "./components/VitalSigns";
